@@ -1,4 +1,4 @@
-# First Aid Scanner
+# SongPare
 
 A cross-platform first-aid companion that captures a wound image, presents basic guidance, and keeps a local history. It is not a diagnostic tool and must not replace professional medical care.
 
